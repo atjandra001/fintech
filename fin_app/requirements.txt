@@ -10,7 +10,7 @@ django-tinymce==2.8.0
 easy-thumbnails==2.7
 feedparser==5.2.1
 idna==2.9
-numpy==1.18.1
+numpy==1.22.0
 ordereddict==1.1
 pandas==1.0.1
 pif==0.8.2
